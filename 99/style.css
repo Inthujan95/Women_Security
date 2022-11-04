@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Numans');
 
 html,body{
-background-color:#FF0833;
+background-color:#FF69B4;
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
@@ -99,3 +99,11 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
+}
+
+    img {
+        float: left;
+        border-radius: 10px;
+        padding-top: 100;
+       
+      }
